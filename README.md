@@ -1,4 +1,4 @@
-# Minecraft Plugin - Player Heads Underwater
+# Minecraft Plugin - Player Heads Underwater | Custom Made for Medieval Vanilla
 
 ## Overview
 This Minecraft plugin allows players to place player heads in water without them breaking.
