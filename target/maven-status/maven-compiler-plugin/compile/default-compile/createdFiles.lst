@@ -1,0 +1,4 @@
+com\Floods\PlayerHeadsUnderwater\listeners\PlayerHeadListener.class
+com\Floods\PlayerHeadsUnderwater\listeners\WaterproofHeadListener.class
+com\Floods\PlayerHeadsUnderwater\listeners\HeadProtectionListener.class
+com\Floods\PlayerHeadsUnderwater\Main.class
