@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.Floods</groupId>
-    <artifactId>PlayerHeadPlugin</artifactId>
+    <artifactId>PlayerHeadsUnderwater</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
